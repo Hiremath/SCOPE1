@@ -4,3 +4,8 @@ Change 3
 
 Printf ( "Enter the number ")
 Scanf(%d)
+
+-------
+
+Fixed issue #FUN-1
+Fixed issue #FUN-2
